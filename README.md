@@ -1,3 +1,3 @@
 # Electronic Commerce System
 
-An eCommerce system is a software platform that enables businesses to conduct online transactions, manage inventory, and streamline operations for selling products or services over the internet. uniCenta oPOS powerful commercial-grade open source Point Of Sale.
+Open Kiosk is an affordable, open-source POS solution that eliminates recurring fees and vendor lock-in. Create a complete retail kiosk using modern web technologies and real hardware components. An eCommerce system is a software platform that enables businesses to conduct online transactions, manage inventory, and streamline operations for selling products or services over the internet. uniCenta oPOS powerful commercial-grade open source Point Of Sale.
